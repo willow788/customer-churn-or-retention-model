@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+shap
+
+# App
+streamlit
+joblib
+
